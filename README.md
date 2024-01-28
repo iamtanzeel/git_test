@@ -1,2 +1,2 @@
-Git MasterClass
-This line is after first commit
+# Git MasterSession
+## This line is after first commit
