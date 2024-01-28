@@ -1,6 +1,6 @@
 def addition(a,b,c):
-    result = a+b+c
-    return result
+    total = a+b+c
+    return total
 
 def substraction(a,b,c):
     diff = a-b-c
